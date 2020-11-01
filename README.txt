@@ -1,0 +1,1 @@
+IF Particle swarm Inbuilt matlab function not allowed then follow comments in IPSO_ELm to run my tyries pso.m.
